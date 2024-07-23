@@ -25,3 +25,9 @@ To get started with this project, follow these steps:
 ### Clone the repository:
 ```bash
 git clone https://github.com/bagusrizky15/antrian_app.git
+```
+
+## Playstore
+
+Coming soon
+
